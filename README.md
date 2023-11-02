@@ -1,2 +1,7 @@
-# A00475833_React_Assignment
-This is my submission for the react assignment. A00475833
+## React Assignment - A00475833
+
+This is my personal portfolio and submission for react assingnment.
+
+Kindly Check.
+Thanks, Regards.
+Siddharth Singh

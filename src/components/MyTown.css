@@ -1,0 +1,38 @@
+.my-town-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f8f8f8;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  font-family: "Arial", sans-serif;
+  height: 100vh;
+  text-align: center;
+}
+
+h1 {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+img {
+  width: 400px;
+  height: 400px;
+  max-width: 100%;
+  border-radius: 8px;
+  margin: 20px 0;
+}
+
+p {
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.weather-image {
+  width: 45px;
+  height: 45px;
+}
