@@ -17,7 +17,7 @@ function AboutMe() {
           Indore. Following the completion of my engineering degree, I joined
           Cognizant Technology Solutions as a Programmer Analyst. During my
           two-year tenure at Cognizant, I had the opportunity to learn and have
-          a lot of fun!
+          a lot of fun! This is the Main Branch!
         </p>
         <p>
           Seeking to expand my knowledge in Computer Science further, I am
